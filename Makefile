@@ -3,7 +3,7 @@
 # Autor:    Jiri Pavela (ipavela@fit.vutbr.cz)
 # Projekt:  ITY projekt 1
 
-PROJ=proj1
+PROJ=proj2
 
 $(PROJ).pdf: $(PROJ).tex
 	latex $(PROJ).tex
